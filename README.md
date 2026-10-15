@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**sanaakhomsi/sanaakhomsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sanaa
 
-Here are some ideas to get you started:
+I'm a Product Strategist working at the intersection of AI, product design, technology, and business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning complex challenges into intuitive, valuable products — from early research and strategy to prototyping and execution.
+
+## Areas of interest
+- AI-powered products and agentic workflows
+- Product strategy and user experience
+- Rapid prototyping and experimentation
+- Emerging technologies and innovation
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/sanaa-khomsi/)
